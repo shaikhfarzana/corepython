@@ -6,4 +6,4 @@
 @Title : Program To Print hello
 '''
 
-print("hello UNIVERSE")
+print("HELLO UNIVERSE")
